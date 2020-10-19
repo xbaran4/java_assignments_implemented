@@ -1,5 +1,6 @@
 # java_assignments_implemented
 These directories contain my implementations of assignments from pb162-java course.
+The source codes are part of a larger project structure which is not public.
 
 Project names follow:
 
